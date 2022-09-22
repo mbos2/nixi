@@ -1,10 +1,12 @@
 {
   "name": "nixi-bot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Event handler discord bot",
+  "author": "Matej Bošnjak",
+  "repository": "https://github.com/mbos2/nixi-bot",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "deploy": "node deploy-commands.js"
   },
@@ -13,6 +15,7 @@
     "discord.js": "^14.3.0"
   },
   "devDependencies": {
-    "eslint": "^8.23.1"
+    "eslint": "^8.23.1",
+    "typescript": "^4.8.3"
   }
 }
