@@ -20,9 +20,9 @@ The content of `config.json` file must be a bot token, client ID and your server
 
 ```
 {
-	"token": "YOUR_BOT_TOKEN",
+  "token": "YOUR_BOT_TOKEN",
   "clientId": "YOUR_CLIENT_ID",
-	"guildId": "YOUR_SERVER_ID"
+  "guildId": "YOUR_SERVER_ID"
 }
 ```
 
