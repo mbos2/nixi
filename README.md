@@ -32,3 +32,9 @@ You need to create a bot application to get everything you need and to be able t
 Read about how to set up your bot application in discord developers portal: https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot
 
 **As you will be the owner of the bot while self-hosting it, it is safe to give administration rights to your bot in the discord developers portal.**
+
+---
+
+## LICENSE
+
+This project is under [MIT LICENSE](https://github.com/mbos2/nixi/edit/main/LICENSE.md)
